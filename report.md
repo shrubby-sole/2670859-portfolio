@@ -1,0 +1,1 @@
+I learned to create a repository. I cloned it in my local machine i used VS code to0 make changes and uploaded the file to github. I learned to commit and push.
